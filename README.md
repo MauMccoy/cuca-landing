@@ -2,11 +2,11 @@ This is a landing page for [cucamelon.shop]. The project is bootstrapped with [`
 
 
 ## Pending 
-Animations
-Standard color pallete
-About us section
-Product section
-Workshop section
+[Animations]
+[Standard color pallete]
+[About us section]
+[Product section]
+[Workshop section]
 
 ## Learn More
 
